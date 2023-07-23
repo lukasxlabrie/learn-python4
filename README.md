@@ -1,1 +1,2 @@
 # learn-python4
+This exercise takes the previous examples and puts them into context by creating a simple algorithiim solving how many people need to be trasported via carpooling in a single day by a transportation company.
