@@ -10,3 +10,4 @@ average_passengers_per_car = passengers / cars_driven #prompts division
 #NExt series of lines prints text with the definiatio of specified variables
 print("there are" , cars , "cars available.")
 print("There are only", drivers , "drivers available.")
+print("There will be" , cars_not_driven , "empty cars today.")
