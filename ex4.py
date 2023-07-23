@@ -7,5 +7,6 @@ cars_driven = drivers #redefines var drivers
 carpool_capacity = cars_driven * space_in_a_car #prompts multiplication
 average_passengers_per_car = passengers / cars_driven #prompts division
 #to create a varaible you simply write an = statemenet DO NOT use ()
-#line 10 prints text with the definiatio of cars
-print("there are" , cars , "cars avaible.")
+#NExt series of lines prints text with the definiatio of specified variables
+print("there are" , cars , "cars available.")
+print("There are only", drivers , "drivers available.")
