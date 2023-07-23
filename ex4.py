@@ -8,10 +8,10 @@ carpool_capacity = cars_driven * space_in_a_car #prompts multiplication
 average_passengers_per_car = passengers / cars_driven #prompts division
 #to create a varaible you simply write an = statemenet DO NOT use ()
 #NExt series of lines prints text with the definiatio of specified variables
-print("there are" , cars , "cars available.")
-print("There are only", drivers , "drivers available.")
-print("There will be" , cars_not_driven , "empty cars today.")
-print ("We can transport" , carpool_capacity , "people today.")
-print("We have", passengers , "to carpool today.")
-print ("We need to put out about" , average_passengers_per_car , "in each car.")
-
+print("there are" , cars , "cars available.") #defined on line 1
+print("There are only", drivers , "drivers available.") # defined on line 3
+print("There will be" , cars_not_driven , "empty cars today.") #defined on line 5
+print ("We can transport" , carpool_capacity , "people today.") #defined on line 7
+print("We have", passengers , "to carpool today.") #defined on line 4
+print ("We need to put out about" , average_passengers_per_car , "in each car.") # stems from line 8
+# It appears variables must be defined as int and operations prior to prompting a print
