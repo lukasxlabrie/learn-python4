@@ -1,5 +1,5 @@
 cars = 100 #defines var cars
-space_in_a_car = 4.0 #defines var space in a car
+space_in_a_car = 4 #defines var space in a car
 drivers = 30 #defines var drivers
 passengers = 90 #defines var passengers
 cars_not_driven = cars - drivers #prompts subtraction
